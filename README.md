@@ -15,23 +15,14 @@ I build things that work, and occasionally debug things that shouldn't.
 | Area | Technologies |
 | :--- | :--- |
 | **Frontend** | React, TypeScript, Tailwind CSS |
-| **Backend** | Python, FastAPI |
-| **Database & Storage** | PostgreSQL, Supabase, Cloudflare R2 |
+| **Backend** | Python, FastAPI, Node.js, Express.js |
+| **Database & Storage** | PostgreSQL, Supabase, Cloudflare R2, MongoDB |
 | **Version Control** | Git, GitHub (obviously) |
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical" />
-</p>
 
 ---
 
 ### 💬 Let's Connect!
 
 * **Ask me about:** Building fast APIs, frontend/backend integration, or finding the perfect VS Code theme.
-* **How to reach me:** [Your Email/LinkedIn]
-* **Currently listening to:** 8-bit lofi beats or the sweet sound of 0 errors in the terminal.
+* **How to reach me:** [Email](punarvimu777@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/punarvi-m-u/)
+
