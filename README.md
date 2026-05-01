@@ -24,5 +24,5 @@ I build things that work, and occasionally debug things that shouldn't.
 ### 💬 Let's Connect!
 
 * **Ask me about:** Building fast APIs, frontend/backend integration, or finding the perfect VS Code theme.
-* **How to reach me:** [Email](punarvimu777@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/punarvi-m-u/)
+* **How to reach me:** [Email](mailto:punarvimu777@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/punarvi-m-u/)
 
