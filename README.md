@@ -166,8 +166,8 @@ Ingests Wazuh alerts and network telemetry, classifies anomalies with a **CNN** 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PunPun777&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=ec4899&text_color=c9d1d9" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PunPun777&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" alt="Top languages" />
+<img height="170" src="https://github-readme-stats-seven-beta-32.vercel.app/api?username=PunPun777&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=ec4899&text_color=c9d1d9" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats-seven-beta-32.vercel.app/api/top-langs/?username=PunPun777&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" alt="Top languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PunPun777&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ec4899&currStreakLabel=a78bfa" alt="GitHub streak" />
 
